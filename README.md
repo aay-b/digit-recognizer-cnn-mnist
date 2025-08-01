@@ -6,7 +6,6 @@ Convolutional Neural Network (CNN) model built for the Kaggle Digit Recognizer c
 
 This project solves the [Kaggle Digit Recognizer competition](https://www.kaggle.com/competitions/digit-recognizer) using a Convolutional Neural Network (CNN) built with TensorFlow/Keras. The model classifies images of handwritten digits (0–9) from the MNIST dataset.
 
----
 
 ## 📌 Objective
 
